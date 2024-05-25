@@ -10,13 +10,12 @@ I am passionate about solving problems and building software solutions that impr
 ## Skills
 
 - **Programming Languages**: Python, C++, HTML, SQL
-- **Frameworks and Tools**: (Add any frameworks or tools you are familiar with, like React, Node.js, TensorFlow, etc.)
 - **Other Skills**: Data structures, Algorithm design, Database management
 
 ## Education
 
 - **Bachelor of Science in Computer Science**
-  - Weber State University, Expected Graduation 202X
+  - Weber State University, Expected Graduation 2026
 
 ## Contact Me
 
